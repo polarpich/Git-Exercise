@@ -28,13 +28,12 @@ Name: Pitchanan Srisomboon
 Email: 6730369421@student.chula.ac.th
 
 🖼️ 2. Picture
-![Quote Picture](Quote.jpg)
-
+![Quote Picture](Picture/Quote.jpg)
 
 🎞️ 3. Animation
 
-![Git Animation](Picture/GITGIF.gif)
-![Git Animation](Picture/GITGIFa.gif)
+![Git Animation](Animation/GITGIF.gif)
+![Git Animation](Animation/GITGIFa.gif)
 
 💬 4. Quote
 
