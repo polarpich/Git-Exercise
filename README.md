@@ -24,16 +24,17 @@ c) Update this README.md file:
 
 👤 1. Student Information
 
-Name: *** Your full name *** 
-Email: *** Your email address *** 
+Name: Pitchanan Srisomboon
+Email: 6730369421@student.chula.ac.th
 
 🖼️ 2. Picture
+![Quote Picture](Quote)
 
-*** Place Quote.* here *** 
 
 🎞️ 3. Animation
 
-*** Place GITGIF.* here *** 
+![Git Animation](Picture/GITGIF)
+![Git Animation](Picture/GITGIFa)
 
 💬 4. Quote
 
